@@ -6,9 +6,13 @@ layout: default
 
 
 
-There should be whitespace between paragraphs.
+<!-- There should be whitespace between paragraphs. -->
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
+
+**Email:** Delara (dot) forghani (at) uwaterloo.ca
+**My CV:** [Last updated: May 2024](./Delara_Forghani_HCI_CV.pdf)
+**Office:** DC3540 (HCI Lab)
 
 # Hello 
 
@@ -23,7 +27,7 @@ My name is Delara, and I am a PhD student in Computer Science at the University 
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+<!-- ### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -38,7 +42,7 @@ var fun = function lang(l) {
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
+``` -->
 
 #### Header 4
 
