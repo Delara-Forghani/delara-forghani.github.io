@@ -22,7 +22,8 @@ layout: default
 
 
 My name is Delara, and I am a PhD student in Computer Science at the University of Waterloo. My research area in PhD is Human-Computer Interaction focusing on developing AR/VR applications. I work in Exii group under [Prof. Daniel Vogel](https://uwaterloo.ca/computer-science/about/people/dvogel) in the Human-Computer Interaction Lab.
-\newline
+
+<br>
 Previously, I did my master's in Human-robot Interaction in the Electrical and Computer Engineering at the University of Waterloo under 
           [Prof. Kerstin Dautenhahn](https://uwaterloo.ca/electrical-computer-engineering/profile/kdautenh) and [Prof. Chrystopher Nehaniv](https://uwaterloo.ca/systems-design-engineering/profile/cnehaniv) in the Social and Intelligent Robotics Research Laboratory. 
           I did my undergraduate in Computer Engineering at the Amirkabir University of Technology.
