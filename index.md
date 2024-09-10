@@ -9,6 +9,8 @@ layout: default
 <!--- There should be whitespace between paragraphs. -->
 
 <!--- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
+**Delara Forghani**
+
 **PhD Student**
 
 **Cheriton School of Computer Science, University of Waterloo**
@@ -16,13 +18,13 @@ layout: default
 **Email:** Delara (dot) forghani (at) uwaterloo.ca <br />
 [CV (Last updated: May 2024)](./Delara_Forghani_HCI_CV.pdf)<br />
 **Office:** DC3540 (HCI Lab)
+ 
 
-## Hello 
 
 My name is Delara, and I am a PhD student in Computer Science at the University of Waterloo. My research area in PhD is Human-Computer Interaction focusing on developing AR/VR applications. I work in Exii group under [Prof. Daniel Vogel](https://uwaterloo.ca/computer-science/about/people/dvogel) in the Human-Computer Interaction Lab.
-
-Previously I did my master's in Human-robot Interaction in the Electrical and Computer Engineering at the University of Waterloo under 
-          [Prof. Kerstin Dautenhahn](https://uwaterloo.ca/electrical-computer-engineering/profile/kdautenh) and [Prof. Chrystopher Nehaniv](https://uwaterloo.ca/systems-design-engineering/profile/cnehaniv) in Social and Intelligent Robotics Research Laboratory. 
+\newline
+Previously, I did my master's in Human-robot Interaction in the Electrical and Computer Engineering at the University of Waterloo under 
+          [Prof. Kerstin Dautenhahn](https://uwaterloo.ca/electrical-computer-engineering/profile/kdautenh) and [Prof. Chrystopher Nehaniv](https://uwaterloo.ca/systems-design-engineering/profile/cnehaniv) in the Social and Intelligent Robotics Research Laboratory. 
           I did my undergraduate in Computer Engineering at the Amirkabir University of Technology.
 
 
@@ -49,11 +51,11 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ``` -->
 
-#### Publications
+<!--- #### Publications
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   This is an unordered list following a header. -->
 
 <!--- ##### Header 5
 
