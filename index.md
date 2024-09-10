@@ -11,7 +11,9 @@ layout: default
 <!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 **Email:** Delara (dot) forghani (at) uwaterloo.ca
+
 **My CV:** [Last updated: May 2024](./Delara_Forghani_HCI_CV.pdf)
+
 **Office:** DC3540 (HCI Lab)
 
 # Hello 
