@@ -1,6 +1,6 @@
-title: My Personal Page
+title: Delara Forghani
 logo: /assets/img/photo.jpg
-description: This is a personal profile and a brief introduction about myself.
-show_downloads: true
+description:
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
